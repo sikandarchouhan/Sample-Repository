@@ -1,2 +1,3 @@
 # Sample-Repository
-New repository
+This is New repository
+We have edited the README file.
